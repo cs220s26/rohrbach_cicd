@@ -1,3 +1,3 @@
 def test_nothing():
-    pass
+    assert 1 == 0
 
